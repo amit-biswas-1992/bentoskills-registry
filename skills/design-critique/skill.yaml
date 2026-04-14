@@ -1,0 +1,14 @@
+slug: design-critique
+name: Design Critique
+tagline: Get structured feedback on usability, hierarchy, and visual design from Claude.
+version: 1.0.0
+author: bentoskills
+category: critique
+tags:
+  - ui
+  - feedback
+  - usability
+  - visual-design
+license: MIT
+homepage: https://github.com/amit-biswas-1992/bentoskills-registry/tree/main/skills/design-critique
+publishedAt: 2026-04-01

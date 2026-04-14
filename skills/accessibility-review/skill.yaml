@@ -1,0 +1,14 @@
+slug: accessibility-review
+name: Accessibility Review
+tagline: Run a WCAG 2.1 AA audit on any UI, page, or component.
+version: 1.0.0
+author: bentoskills
+category: accessibility
+tags:
+  - wcag
+  - a11y
+  - audit
+  - compliance
+license: MIT
+homepage: https://github.com/amit-biswas-1992/bentoskills-registry/tree/main/skills/accessibility-review
+publishedAt: 2026-04-01

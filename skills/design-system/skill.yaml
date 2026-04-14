@@ -1,0 +1,14 @@
+slug: design-system
+name: Design System
+tagline: Audit, document, or extend your design system and design tokens.
+version: 1.0.0
+author: bentoskills
+category: system
+tags:
+  - tokens
+  - components
+  - documentation
+  - design-system
+license: MIT
+homepage: https://github.com/amit-biswas-1992/bentoskills-registry/tree/main/skills/design-system
+publishedAt: 2026-04-01

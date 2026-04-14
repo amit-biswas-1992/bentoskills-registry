@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "design-critique",
+    "path": "skills/design-critique",
+    "sha": "design-critique-v1"
+  },
+  {
+    "slug": "accessibility-review",
+    "path": "skills/accessibility-review",
+    "sha": "accessibility-review-v1"
+  },
+  {
+    "slug": "ux-copy",
+    "path": "skills/ux-copy",
+    "sha": "ux-copy-v1"
+  },
+  {
+    "slug": "design-handoff",
+    "path": "skills/design-handoff",
+    "sha": "design-handoff-v1"
+  },
+  {
+    "slug": "user-research",
+    "path": "skills/user-research",
+    "sha": "user-research-v1"
+  },
+  {
+    "slug": "design-system",
+    "path": "skills/design-system",
+    "sha": "design-system-v1"
+  }
+]

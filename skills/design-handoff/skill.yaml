@@ -1,0 +1,14 @@
+slug: design-handoff
+name: Design Handoff
+tagline: Generate developer-ready handoff specs from a design file or mockup.
+version: 1.0.0
+author: bentoskills
+category: handoff
+tags:
+  - handoff
+  - developer
+  - specs
+  - figma
+license: MIT
+homepage: https://github.com/amit-biswas-1992/bentoskills-registry/tree/main/skills/design-handoff
+publishedAt: 2026-04-01
